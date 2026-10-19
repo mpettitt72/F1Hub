@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">F1 Hub</string>
+    <string name="app_name_caps">F1 HUB</string>
+    <string name="splash_subtitle">FORMULA 1 TRACKER</string>
+    <string name="splash_footer">2026 FIA Formula One World Championship</string>
+    <string name="get_started">Get Started</string>
+
+    <string name="welcome_back">Welcome Back</string>
+    <string name="create_your_account">Create Your Account</string>
+    <string name="login_subtitle">Login to track your favorite constructors and drivers.</string>
+    <string name="register_subtitle">Get started by creating your account.</string>
+    <string name="login">Login</string>
+    <string name="create_account">Create Account</string>
+    <string name="email_address">EMAIL ADDRESS</string>
+    <string name="password">PASSWORD</string>
+    <string name="email_hint">hamilton@mercedes.com</string>
+    <string name="password_hint">••••••••</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="terms_footer_prefix">By continuing, you agree to our</string>
+    <string name="terms_of_service">Terms of Service</string>
+    <string name="and">and</string>
+    <string name="privacy_policy">Privacy Policy</string>
+
+    <string name="sign_out">Sign Out</string>
+</resources>

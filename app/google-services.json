@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "480182293081",
+    "project_id": "f1hub-5e908",
+    "storage_bucket": "f1hub-5e908.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480182293081:android:47be89a7c5f97e42e81748",
+        "android_client_info": {
+          "package_name": "com.example.f1hub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADJqc3wjcdsvFs8WTPQ9JOm4dPKWhR9Sw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

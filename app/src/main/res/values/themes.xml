@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.F1Hub" parent="Theme.MaterialComponents.NoActionBar">
+        <item name="colorPrimary">@color/f1_red</item>
+        <item name="colorPrimaryVariant">@color/f1_red</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/f1_red</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="android:colorBackground">@color/f1_bg</item>
+        <item name="colorSurface">@color/f1_card</item>
+        <item name="colorOnSurface">@color/white</item>
+        <item name="android:windowBackground">@color/f1_bg</item>
+        <item name="android:statusBarColor">@color/f1_bg</item>
+        <item name="android:navigationBarColor">@color/f1_bg</item>
+        <item name="android:textColorPrimary">@color/white</item>
+        <item name="android:textColorSecondary">@color/f1_muted</item>
+        <item name="android:textColorHint">@color/f1_muted_dim</item>
+    </style>
+
+    <style name="F1TextInput" parent="Widget.MaterialComponents.TextInputLayout.FilledBox">
+        <item name="boxBackgroundColor">@color/f1_card</item>
+        <item name="boxStrokeWidth">0dp</item>
+        <item name="boxStrokeWidthFocused">0dp</item>
+        <item name="boxCornerRadiusTopStart">10dp</item>
+        <item name="boxCornerRadiusTopEnd">10dp</item>
+        <item name="boxCornerRadiusBottomStart">10dp</item>
+        <item name="boxCornerRadiusBottomEnd">10dp</item>
+        <item name="hintEnabled">false</item>
+        <item name="startIconTint">@color/f1_muted</item>
+        <item name="endIconTint">@color/f1_muted</item>
+        <item name="android:textColorHint">@color/f1_muted_dim</item>
+    </style>
+
+    <style name="F1TextInputEditText" parent="Widget.MaterialComponents.TextInputEditText.FilledBox">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:paddingTop">16dp</item>
+        <item name="android:paddingBottom">16dp</item>
+    </style>
+</resources>
