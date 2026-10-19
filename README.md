@@ -111,17 +111,6 @@ service cloud.firestore {
 }
 ```
 
-## 🎨 Design
-
-The app uses a dark theme built around F1 red:
-
-| Token | Colour | Use |
-|---|---|---|
-| `f1_bg` | `#0A0E1A` | Background |
-| `f1_card` | `#1A2030` | Cards and inputs |
-| `f1_red` | `#E10600` | Primary accent |
-| `f1_muted` | `#7A8EA8` | Secondary text |
-
 ## 📝 Disclaimer
 
 This is an unofficial student project made for educational purposes. It is not associated with Formula 1 companies. F1, FORMULA ONE, FORMULA 1 and related marks are trademarks of Formula One Licensing B.V. Race data comes from the community-run Jolpica and OpenF1 APIs.
